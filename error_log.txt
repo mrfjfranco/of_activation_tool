@@ -1,0 +1,1 @@
+An error occurred: can't invoke "label" command: application has been destroyed
